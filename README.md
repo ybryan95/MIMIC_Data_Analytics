@@ -17,7 +17,7 @@ This repository contains Python code that performs an exploratory and predictive
 
 ## :bulb: Background
 
-The Medical Information Mart for Intensive Care III (MIMIC III) is a large, publicly-available database comprising deidentified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.
+The Medical Information Mart for Intensive Care III (MIMIC III) is a large, publicly-available database comprising de-identified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.
 
 ## :wrench: Methodology
 
@@ -35,7 +35,7 @@ The code carries out data processing, exploratory analysis, and predictive model
 
 ## :computer: Usage
 
-This Python code can be utilized to perform an in-depth analysis on the MIMIC III Clinical Database. You would need to have access to the database, which requires completing the CITI "Data or Specimens Only Research" course.
+This Python code can be utilized to perform an in-depth analysis on the MIMIC III Clinical Database. You would need files from the database and have computing platform (Jupyter notebook preferred) set up.
 
 ## :bar_chart: Output
 
